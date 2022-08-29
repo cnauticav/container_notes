@@ -1,6 +1,6 @@
 # Container notes
 
-General notes for `docker` and `multipass`
+General notes for containers with 'getting started' documentation
 
 ---
 
@@ -19,6 +19,6 @@ General notes for `docker` and `multipass`
 
 [Getting started](microk8s/get_started.md) - Install and general notes
 
-[microk8s commands](microk8s/microk8s_cmds.md) - Common `microk8s` commands
+[Microk8s commands](microk8s/microk8s_cmds.md) - Common `microk8s` commands
 
 ---
