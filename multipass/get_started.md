@@ -8,6 +8,12 @@
 	or
 	multipass launch -c 2 -m 2G -d 20G -n foo 22.10
 
+## List available images
+	multipass find
+
+## Launch specific image
+	multipass minikube
+
 ## Pass a cloud-init metadata file
 	multipass launch -n bar --cloud-init cloud-config.yml
 
