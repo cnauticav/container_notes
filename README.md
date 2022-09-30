@@ -26,6 +26,6 @@ General notes for containers with 'getting started' documentation
 
 [Getting started](minikube/get_started.md) - Install and general notes
 
-[Minikube commands](minikube/microk8s_cmds.md) - Common `minikube` commands
+[Minikube commands](minikube/minikube_cmds.md) - Common `minikube` commands
 
 ---
